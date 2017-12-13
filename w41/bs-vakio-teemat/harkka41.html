@@ -4,33 +4,43 @@
     <title>Harkka</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
 </head>
 
 <body>
-    <nav>
-      <ul>
-        <li id="toplink"><a href="#"></a></li>
-        <li><a href="#">Linkki 1</a></li>
-        <li><a href="#">Linkki 2</a></li>
-        <li><a href="#">Linkki 3</a></li>
-      </ul>
-    </nav>
+
+        <nav>
+           <ul class="nav nav-pills justify-content-center">
+             <li class="nav-item">
+               <a class="nav-link active" href="#">Active</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Link</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Link</a>
+             </li>
+           </ul>
+         </nav>
 
     <header>
         <img src="img/kissax.svg" />
-        <h1>Harjoitustyö - Viikko 39</h1>
+        <h1 class="display-4">Harjoitustyö - Viikko 39</h1>
     </header>
 
     <main>
         <img src="img/kissa5.jpg" alt="kissa"  />
         <h2>Ja viikolla 39 opiskelimme...</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed libero sapien, maximus sed augue eu, sodales pellentesque arcu. Ut aliquam posuere nulla. Cras a ante consequat tortor commodo feugiat. Morbi gravida eget massa a tincidunt. Nullam quis odio at dolor congue accumsan.</p>
+
     </main>
 
     <aside>
-      <h2>deepdoop</h2>
+      <h2> deepdoop</h2>
       <p>Curabitur ultricies in libero vitae facilisis. Pellentesque tempus lacus quis nunc consequat porta. Sed mollis nibh turpis, non fringilla turpis posuere et. </p>
     </aside>
 
@@ -61,15 +71,33 @@
     </content>
 
     <section>
-        <img src="img/kissa6.jpg" alt="kissa" />
+        <img src="img/kissa6.jpg" alt="kissa" class="rounded-circle"/>
         <h3>woopdoop</h3>
         <p>Cras sit amet eros gravida, blandit erat et, varius lacus.</p>
     </section>
 
+    <form class="formi">
+      <div class="form-group">
+        <label for="exampleInputEmail1">sposti</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="syötä sposti osoita">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputPassword1">Salasana</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+      </div>
+      <div class="form-check">
+        <label class="form-check-label">
+          <input type="checkbox" class="form-check-input">
+          ruksita tämä
+        </label>
+      </div>
+      <button type="submit" class="btn btn-primary">lähetä</button>
+    </form>
+
     <footer>
       <ul>
-        <li><a href="#">biib</a></li>
-        <li><a href="#">boob</a></li>
+        <button type="button" class="btn btn-success">boob</button>
+        <button type="button" class="btn btn-success">biib</button>
       </ul>
     </footer>
 </body>

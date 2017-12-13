@@ -13,11 +13,10 @@ nav {
 ul {
     text-align: center;
     list-style: none;
-    padding: 0px;
+    padding-top: 10px;
     margin: 0px;
 }
-li {
-    background-color: #86C232;
+
 }
 #toplink {
     background-color: #000000;
@@ -78,6 +77,10 @@ a:hover {
   width: 50%
 }
 
+.formi{
+  padding: 10px;
+}
+
 img {
     width: 200px;
     margin: 10px auto;
@@ -97,6 +100,7 @@ img {
         width: 50%;
         border: 2px solid #898673;
     }
+
 
 }
 /*desktop*/
@@ -124,5 +128,10 @@ img {
     }
     #logo {
         display: hidden;
+    }
+    .formi{
+      max-width: 50%;
+      margin:auto;
+      padding: 10px;
     }
 }
