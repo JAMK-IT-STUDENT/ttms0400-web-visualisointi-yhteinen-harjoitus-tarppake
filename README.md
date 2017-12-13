@@ -19,14 +19,13 @@ lisäksi löytyi https://polarnotion.github.io/starwarsintro/, jota olisi joskus
 
 Mockup:
 
------------------------------
+------------------------------
 ### Viikko 41 - bootstrap
 
 vakiotyylit:
-https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/tree/master/w41/bs-vakio-teemat
+[tästä](https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/tree/master/w41/bs-vakio-teemat)
 
-Teeman käyttöön otto:
-https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w41/bs-teema/startbootstrap-small-business-gh-pages/index.html
+teeman käyttöön otto: https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w41/bs-teema/startbootstrap-small-business-gh-pages/index.html
 -----------------------------
 ### viikko 44 - transitiot ja animaatiot
 
@@ -41,7 +40,7 @@ https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus
 
 
 -------------------------------
-### Henkilökohtainen lopputyö
+###  Henkilökohtainen lopputyö
 
 
 
