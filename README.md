@@ -27,6 +27,7 @@ vakiotyylit:
 
 Teeman käyttöön otto
 [tästä](https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w41/bs-teema/startbootstrap-small-business-gh-pages/index.html)
+
 -----------------------------
 ### viikko 44 - transitiot ja animaatiot
 
