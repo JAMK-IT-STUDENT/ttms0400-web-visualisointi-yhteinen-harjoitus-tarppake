@@ -25,7 +25,8 @@ Mockup:
 vakiotyylit:
 https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/tree/master/w41/bs-vakio-teemat
 
-teeman käyttöön otto: https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w41/bs-teema/startbootstrap-small-business-gh-pages/index.html
+Teeman käyttöön otto:
+https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w41/bs-teema/startbootstrap-small-business-gh-pages/index.html
 -----------------------------
 ### viikko 44 - transitiot ja animaatiot
 
