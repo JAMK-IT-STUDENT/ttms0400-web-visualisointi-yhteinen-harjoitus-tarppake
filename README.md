@@ -17,7 +17,7 @@ Perus bootstrapin lisäksi
 
 lisäksi löytyi https://polarnotion.github.io/starwarsintro/, jota olisi joskus hauska käyttää jossain.
 
-Mockup: [tästä]()
+Mockup: [tästä](https://www.fluidui.com/editor/live/preview/cF9QaTJTTlRSQ1F4b1pPSGFtczljOGJIeUV6Rkt5ZG10Yw==)
 
 ------------------------------
 ### Viikko 41 - bootstrap
