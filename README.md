@@ -37,7 +37,7 @@ animaatiot:
 
 -------------------------------
 ### Viikko 45 - inkscape
-
+[tästä](https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/tree/master/w45)
 
 -------------------------------
 ###  Henkilökohtainen lopputyö
