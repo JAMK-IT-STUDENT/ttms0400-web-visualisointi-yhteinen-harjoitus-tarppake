@@ -33,7 +33,7 @@ Teeman käyttöön otto: [tästä](https://github.com/JAMK-IT-STUDENT/ttms0400-w
 transitiot:
 [tästä](https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w44/transition.html)
 animaatiot:
-[täsyä](https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w44/animation.html)
+[tästä](https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-tarppake/blob/master/w44/animation.html)
 
 -------------------------------
 ### Viikko 45 - inkscape
@@ -41,7 +41,7 @@ animaatiot:
 
 -------------------------------
 ###  Henkilökohtainen lopputyö
-
-
+[Tästä](http://student.labranet.jamk.fi/~K8230/ttms0400/frontpage.html)
 
 Raportti
+[Tästä](http://student.labranet.jamk.fi/~K8230/ttms0400/documentointi.html)
